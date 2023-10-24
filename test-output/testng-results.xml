@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-24T11:27:49 EET" name="Default suite" finished-at="2023-10-24T11:28:10 EET" duration-ms="20186">
+    <groups>
+    </groups>
+    <test started-at="2023-10-24T11:27:49 EET" name="Default test" finished-at="2023-10-24T11:28:10 EET" duration-ms="20186">
+      <class name="usag_lab.suag_lab_class">
+        <test-method is-config="true" signature="mySetup()[pri:0, instance:usag_lab.suag_lab_class@fff25f1]" started-at="2023-10-24T11:27:49 EET" name="mySetup" finished-at="2023-10-24T11:27:53 EET" duration-ms="3799" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetup -->
+        <test-method signature="LoginWithPerformanceUser()[pri:0, instance:usag_lab.suag_lab_class@fff25f1]" started-at="2023-10-24T11:27:53 EET" name="LoginWithPerformanceUser" finished-at="2023-10-24T11:28:02 EET" duration-ms="8818" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithPerformanceUser -->
+        <test-method signature="LoginWithProblemUser()[pri:0, instance:usag_lab.suag_lab_class@fff25f1]" started-at="2023-10-24T11:28:02 EET" name="LoginWithProblemUser" finished-at="2023-10-24T11:28:06 EET" duration-ms="3523" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithProblemUser -->
+        <test-method signature="LoginWithStandardUser()[pri:0, instance:usag_lab.suag_lab_class@fff25f1]" started-at="2023-10-24T11:28:06 EET" name="LoginWithStandardUser" finished-at="2023-10-24T11:28:09 EET" duration-ms="3553" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithStandardUser -->
+        <test-method is-config="true" signature="myPostTesting()[pri:0, instance:usag_lab.suag_lab_class@fff25f1]" started-at="2023-10-24T11:28:09 EET" name="myPostTesting" finished-at="2023-10-24T11:28:10 EET" duration-ms="429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myPostTesting -->
+      </class> <!-- usag_lab.suag_lab_class -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
